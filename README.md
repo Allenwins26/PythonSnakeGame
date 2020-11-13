@@ -1,2 +1,6 @@
 # PythonSnakeGame
-Python Snake Game ulitizes the "Pygame" Library and "Random" module.
+The available script: 
+
+python-snake-game.py
+
+This Python Snake Game ulitizes the "Pygame" Library and "Random" module.
